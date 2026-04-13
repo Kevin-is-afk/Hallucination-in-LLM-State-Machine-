@@ -4,6 +4,9 @@ Hybrid hallucination detection system using RoBERTa-MNLI combines model predicti
 
 ## Hallucination Detection using RoBERTa + EigenScore
 
+## Google Colab Link
+https://github.com/Kevin-is-afk/Hallucination-in-LLM-State-Machine-
+
 ## Description
 This project detects hallucinations in QA pairs using a hybrid scoring method combining:
 - RoBERTa-MNLI probabilities
